@@ -4,7 +4,7 @@
 
 Skills: C / Linux
 
-- 🔭 I’m currently working on push_swap 
+- 🔭 I’m currently working on minishell
 - 📫 How to reach me: relismaiyly@gmail.com 
 
 

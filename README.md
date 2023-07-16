@@ -28,7 +28,7 @@
 	<a href="https://www.linkedin.com/in/rachid-el-isamiyly-444097208/" target="_blanck" alt="">
 		<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
-	<a href="#" target="_blanck" alt="">
+	<a href="mailto:relismaiyly@gmail.com" alt="">
 		<img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
 	</a>
 </p>

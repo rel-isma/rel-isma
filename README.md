@@ -1,10 +1,5 @@
 <h1 align="center">Hi there! I am Rachid El ismaiyly, welcome to my profile<img src="https://edea.juntadeandalucia.es/bancorecursos/file/993c988d-d8ba-4ea3-9d17-7e767f25aa04/2/ING_1PRI_REA_04_V02.zip/retor_escolares_conbocadillo.gif" width="50px"/></h1>
 
-<!-- Intra profile -->
-<p align="center">
-	<a href="https://profile.intra.42.fr/users/rel-isma"><img src="https://badge.mediaplus.ma/binary/rel-isma" alt="rel-isma's 42 stats" /></a> 
-</p>
-
 <br>
 <p align="center">
 	<img src="https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" alt="Additional Image" />

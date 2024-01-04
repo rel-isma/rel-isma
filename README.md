@@ -5,13 +5,6 @@
 	<img src="https://i.pinimg.com/originals/70/ab/8a/70ab8a14965f337dc81f15bc2547ed98.gif" alt="Additional Image" />
 </p>
 
-
-<br>
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rel-isma&show_icons=true&locale=en&theme=radical"/>
-</p>
-<br>
-
 ## Socials:
 <p align="center"> 
 	<a href="https://www.facebook.com/rachid.elismaili.96/" target="_blank" rel="noopener noreferrer">

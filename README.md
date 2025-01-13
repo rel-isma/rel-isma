@@ -8,7 +8,7 @@
   <a href="https://wakatime.com/@018d16f4-8f4b-484d-b95f-619f7737d0c7">
     <img src="https://wakatime.com/badge/user/018d16f4-8f4b-484d-b95f-619f7737d0c7.svg" alt="Total time coded since Jan 17 2024" />
   </a>
-  <a href="https://github.com/relisma?tab=repositories">
+  <a href="https://github.com/rel-isma?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-6+-brightgreen" alt="Projects" />
   </a>
 </p>

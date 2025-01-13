@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! I am Rachid El Ismaiyly 👋 <img src="https://edea.juntadeandalucia.es/bancorecursos/file/993c988d-d8ba-4ea3-9d17-7e767f25aa04/2/ING_1PRI_REA_04_V02.zip/retor_escolares_conbocadillo.gif" width="50px"/></h1>
 
-<h3 align="center">A passionate Full-Stack Developer from Morocco 🚀</h3>
+<h3 align="center">A Full-Stack Developer 🚀</h3>
 
 <br>
 
